@@ -1,5 +1,20 @@
-div1{
+body {
+    background-color: rgb(0, 0, 0);
+  }
+  
+  h1 {
+    color: navy;
+    margin-left: 20px;
+  }
+
+  #div1 {
+    min-height: 60px;
+    background-color: #E6F9AF;
+    margin-inline: 0px;
     text-align: center;
-    text-shadow: 1ch;
-    background-color: black;
-}
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  #menu {
+    background-color: aqua;
+  }
