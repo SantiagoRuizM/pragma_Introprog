@@ -25,3 +25,7 @@ body {
     background-color: #8A897C;
     height: 1000px;
   }
+
+  ul {
+    box-sizing: border-box;
+  }
