@@ -26,6 +26,7 @@ body {
     height: 1000px;
   }
 
-  ul {
-    box-sizing: border-box;
+  .test{
+    height:200px;
+    width:200px;
   }
